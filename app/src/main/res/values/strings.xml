@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SysParking</string>
+    <string name="Ind">INDICADORES</string>
+    <string name="hora_ent">Hora de entrada</string>
+</resources>
